@@ -1,0 +1,4 @@
+pie:250
+chips:150
+hot_chocolate:111
+drink:136
